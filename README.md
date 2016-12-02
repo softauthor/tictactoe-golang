@@ -9,7 +9,7 @@ Download  [Go Language](https://golang.org/dl/)
 Download the tictactoe.go file into your machine
 
 ## STEP 03
-Go to your System console and Type:
+Go to your System console and locate the folder that has the tictactoe.go file then Type:
 ```
 go run tictactoe.go
 ```
